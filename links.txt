@@ -1,0 +1,6 @@
+Libosmscout
+http://wiki.openstreetmap.org/wiki/Libosmscout
+
+frans schreuder
+https://github.com/fransschreuder/OSMScout-ubuntu
+http://2014.sotm-eu.org/en/slots/65
